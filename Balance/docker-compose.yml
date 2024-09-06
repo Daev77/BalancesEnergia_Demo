@@ -1,0 +1,10 @@
+services:
+  balance-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/Balance
+
+
+      
