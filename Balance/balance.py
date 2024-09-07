@@ -18,11 +18,11 @@ def home():
 
     fecha_inicio="2024-07-09" # define la fecha inicial desde la cual se solicita información de archivos de XM
     fecha_fin="2024-07-20"    # define la fecha final hasta la cual se solicita información de archivos de XM
-    file_id = '14WlAlvQj2Xn1SLMvZOLteeqPi7XZX_z0' # acceso para descarga de archivos de las empresas generadoras
+    file_id = '' # acceso para descarga de archivos de las empresas generadoras
 
     #llaves para conexión por API a XM para cargar balance de energia
-    api_key_1="6AjqxTnrfk2IQpm6O8E3xwwkXclCmNYck9ggWo8321OjhQO1BCkGDUlrPkLr9pnt"
-    api_key_2="q0Id5omKsRyW90h1p3JoCEMDLTJ4kXowAfeCDnATjvHK2Zp7KciuhaKKH1u3EMiU"
+    api_key_1=""
+    api_key_2=""
 
 
     # PASO 1: EXTRACCIONES
