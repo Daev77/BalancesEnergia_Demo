@@ -4,6 +4,8 @@ Para correr la aplicación:
 
 https://balance-app-812187119312.us-central1.run.app/
 
+Tener presente que el servicio puede presentar, por la configuración dada en la plataforma de GCR, un cold start y, por lo tanto, puede tomar un tiempo mayor para desplegarse.
+
 Para recrear el programa
 
 En google drive crear una carpeta y cargar el archivo DespachoGeneradoraX.xlsx y generar id para poder descargarlo por medio de API
