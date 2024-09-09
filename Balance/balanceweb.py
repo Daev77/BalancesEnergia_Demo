@@ -19,10 +19,10 @@ def home():
 
             fecha_inicio = "2024-07-09"
             fecha_fin = "2024-07-20"
-            file_id = '14WlAlvQj2Xn1SLMvZOLteeqPi7XZX_z0'  # Acceso para descarga de archivos de las empresas generadoras
+            file_id = ''  # Acceso para descarga de archivos de las empresas generadoras
 
-            api_key_1 = "6AjqxTnrfk2IQpm6O8E3xwwkXclCmNYck9ggWo8321OjhQO1BCkGDUlrPkLr9pnt"
-            api_key_2 = "q0Id5omKsRyW90h1p3JoCEMDLTJ4kXowAfeCDnATjvHK2Zp7KciuhaKKH1u3EMiU"
+            api_key_1 = ""
+            api_key_2 = ""
 
             # Precios Bolsa
             url = f"https://www.simem.co/backend-files/api/PublicData?startDate={fecha_inicio}&endDate={fecha_fin}&datasetId=96D56E"
