@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir --upgrade -r /Balance/requirements.txt
 
 COPY . /Balance
 
-CMD ["python", "balance.py"]
+CMD ["python", "balanceweb.py"]
